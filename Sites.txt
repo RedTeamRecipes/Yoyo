@@ -250,3 +250,4 @@ blog.delivr.to/*
 modzero.com/en/blog/*
 cicada-8.medium.com/*
 evasions.checkpoint.com/*
+ppn.snovvcra.sh/*
