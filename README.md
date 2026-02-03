@@ -1,6 +1,6 @@
 # Snowden The Security Search Engine 
 
-**Yoyo** is a specialized search engine that indexes **only** vetted, high-value cybersecurity and offensive security resources , General-purpose search engines are flooded with SEO spam, generated content, and beginner-level tutorials. Yoyo cuts through the noise. If it's on Yoyo, it’s a resource worth reading.
+**Snowden** is a specialized search engine that indexes **only** vetted, high-value cybersecurity and offensive security resources , General-purpose search engines are flooded with SEO spam, generated content, and beginner-level tutorials. Snowden cuts through the noise. If it's on Snowden, it’s a resource worth reading.
 
 ### Key Features
 
