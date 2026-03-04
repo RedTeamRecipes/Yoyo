@@ -252,3 +252,4 @@ cicada-8.medium.com/*
 evasions.checkpoint.com/*
 ppn.snovvcra.sh/*
 0xrick.github.io/*
+www.r-tec.net/*
