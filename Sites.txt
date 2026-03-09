@@ -253,3 +253,8 @@ evasions.checkpoint.com/*
 ppn.snovvcra.sh/*
 0xrick.github.io/*
 www.r-tec.net/*
+blog.oversecured.com/*
+github.com/vavkamil/awesome-vulnerable-apps/*
+medium.com/@g52238317/hextree-challenge-write-up-3868d9713f09/*
+0xomar.gitbook.io/z3r0s/android-app-pentest/android-fundamentals/*
+medium.com/@0x3adly/*
