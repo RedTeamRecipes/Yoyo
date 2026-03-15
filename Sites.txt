@@ -256,3 +256,4 @@ www.r-tec.net/*
 blog.oversecured.com/*
 0xomar.gitbook.io/z3r0s/android-app-pentest/android-fundamentals/*
 medium.com/@0x3adly/*
+knowledge-base.secureflag.com/*
